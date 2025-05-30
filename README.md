@@ -31,9 +31,8 @@ The model demonstrates excellent performance on the test dataset, tracking the a
 -   **Root Mean Squared Error (RMSE):** 5.09
 -   **Visual Representation:** The plot below shows a very close fit between the model's predictions and the actual stock prices.
 
-*(Optional: Add the screenshot of your result plot here. You can do this by uploading the image to your repo and using the following markdown: `![Model Prediction Result](path/to/your/image.png)`)*
-
-![Model Prediction Result](Screenshot%202025-05-30%20at%2011.54.07%E2%80%AFAM.png)
+![Model Prediction Result](<img width="904" alt="Screenshot 2025-05-30 at 12 14 43 PM" src="https://github.com/user-attachments/assets/1f1ebcbb-9466-4fbb-b63f-493435455efc" />
+)
 
 
 ## How to Run
